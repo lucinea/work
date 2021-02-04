@@ -1,0 +1,8 @@
+work:
+  name: work
+  description: False
+  cover: False
+products:
+  name: products
+  description: False
+  cover: False

@@ -1,0 +1,10 @@
+admin:
+  username: admin
+  name: Admin
+  url_full: False
+  url: False
+  bio:
+  #picture: assets/images/ghost.png
+  #facebook: ghost
+  #twitter: tryghost
+  cover: False
